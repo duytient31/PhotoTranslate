@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.corbatodd.phototranslate.TouchImageView
+        android:id="@+id/ivCroppedBitmap"
+        android:layout_width="fill_parent"
+        android:layout_height="200dip" />
+
+    <EditText
+        android:id="@+id/edtResult"
+        android:layout_width="fill_parent"
+        android:layout_height="120dip"
+        android:layout_below="@+id/ivCroppedBitmap"/>
+
+    <TextView
+        android:id="@+id/tvTranslatedResult"
+        android:layout_width="fill_parent"
+        android:layout_height="120dip"
+        android:layout_below="@+id/edtResult"/>
+    <Button
+        android:id="@+id/btTranslate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Translate"
+        android:layout_below="@id/tvTranslatedResult"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

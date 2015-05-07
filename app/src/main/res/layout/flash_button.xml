@@ -1,0 +1,20 @@
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="50dp"
+    android:layout_width="50dp">
+    <item
+        android:state_pressed="true"
+        android:drawable="@drawable/ic_flash_on_grey600_48dp">
+        <shape android:shape="rectangle">
+            <corners
+                android:radius="3dip" />
+        </shape>
+    </item>
+
+    <item android:state_pressed="false"
+        android:drawable="@drawable/ic_flash_off_grey600_48dp">
+        <shape android:shape="rectangle">
+            <corners android:radius="3dip" />
+        </shape>
+    </item>
+</selector>

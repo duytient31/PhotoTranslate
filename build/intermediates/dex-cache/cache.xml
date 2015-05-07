@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/corbatodd/Documents/AndroidStudioProjects/DoAn/PhotoTranslate/app/build/intermediates/exploded-aar/PhotoTranslate/opencv/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c8d1f2d6d86ee46917ce7bdf259ba8b5e38a600d">
+        <dex dex="/Users/corbatodd/Documents/AndroidStudioProjects/DoAn/PhotoTranslate/app/build/intermediates/pre-dexed/debug/classes-a1fe49eb620acbd6f281f2c9c7ad09db1fc7af5b.jar" />
+    </item>
+    <item
+        jar="/Users/corbatodd/Documents/AndroidStudioProjects/DoAn/PhotoTranslate/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/corbatodd/Documents/AndroidStudioProjects/DoAn/PhotoTranslate/app/build/intermediates/pre-dexed/debug/classes-6ea5416c6d7e9ab6682f9ee358797df4be8d62bc.jar" />
+    </item>
+    <item
+        jar="/Users/corbatodd/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/corbatodd/Documents/AndroidStudioProjects/DoAn/PhotoTranslate/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-22f563753493e6c1647f11fcf5e56e7dd97f2ecf.jar" />
+    </item>
+    <item
+        jar="/Users/corbatodd/Documents/AndroidStudioProjects/DoAn/PhotoTranslate/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/corbatodd/Documents/AndroidStudioProjects/DoAn/PhotoTranslate/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b5ec686203fe4680b96c5d5da4d054ec38c4136b.jar" />
+    </item>
+    <item
+        jar="/Users/corbatodd/Documents/AndroidStudioProjects/DoAn/PhotoTranslate/app/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Users/corbatodd/Documents/AndroidStudioProjects/DoAn/PhotoTranslate/app/build/intermediates/pre-dexed/debug/gson-2.2.4-f2e12644f880ae3cee6d3cd4f8fbab69bb40f507.jar" />
+    </item>
+    <item
+        jar="/Users/corbatodd/Documents/AndroidStudioProjects/DoAn/PhotoTranslate/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/corbatodd/Documents/AndroidStudioProjects/DoAn/PhotoTranslate/app/build/intermediates/pre-dexed/debug/classes-d2ce7e75a847bc206cd3a36137b664d49db3b4f6.jar" />
+    </item>
+    <item
+        jar="/Users/corbatodd/Documents/AndroidStudioProjects/DoAn/PhotoTranslate/app/build/intermediates/exploded-aar/PhotoTranslate/tess-two/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edc067fbd424301f711c153a079ab1f87585bb5d">
+        <dex dex="/Users/corbatodd/Documents/AndroidStudioProjects/DoAn/PhotoTranslate/app/build/intermediates/pre-dexed/debug/classes-9df17393be95d565018aa36ed4ca0a76ea065bb8.jar" />
+    </item>
+
+</items>

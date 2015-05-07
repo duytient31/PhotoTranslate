@@ -1,0 +1,53 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <SurfaceView
+        android:id="@+id/svCameraPreview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <android.corbatodd.phototranslate.FocusBoxView
+        android:id="@+id/FocusBox"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dip"
+        android:layout_gravity="bottom"
+        android:background="#A000">
+
+        <Button
+            android:id="@+id/btGallery"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_alignParentLeft="true"
+            android:background="@layout/gallery_button"/>
+
+        <Button
+            android:id="@+id/btTake"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_centerHorizontal="true"
+            android:background="@layout/take_button" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dip"
+        android:layout_gravity="top">
+
+        <Button
+            android:id="@+id/btFlash"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_alignParentLeft="true"
+            android:background="@layout/flash_button"/>
+
+    </RelativeLayout>
+
+</FrameLayout>
