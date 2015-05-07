@@ -1,2 +1,2 @@
 # PhotoTranslate
-My OCR Application using Tesseract and OpenCV 
+My OCR Application using Tesseract and OpenCV
