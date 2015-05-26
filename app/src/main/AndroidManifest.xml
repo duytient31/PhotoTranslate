@@ -52,6 +52,7 @@
                 android:value=".MainActivity"></meta-data>
 
         </activity>
+        <activity></activity>
 
     </application>
 </manifest>
